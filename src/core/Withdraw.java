@@ -7,4 +7,6 @@ public class Withdraw {
     //Java
 
     //Python
+
+    //slot machines
 }
